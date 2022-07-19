@@ -108,7 +108,7 @@
                                     <h5 class="footer-title">Address</h5>
                                     <ul>
                                         <li><a href="mailto:hello@maxedge.co.uk">hello@maxedge.co.uk</a></li>
-                                        <li><a href="tel:+447425349313" class="mobile-num">+447425349313</a></li>
+                                        <li><a href="tel:+447462778088" class="mobile-num">+447462778088</a></li>
 
                                     </ul>
                                 </div> <!-- /.footer-list -->

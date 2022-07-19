@@ -100,7 +100,7 @@
                 <div class="address-info">
                     <div class="icon"><img src="/assets/images/icon/16.svg" alt=""></div>
                     <div class="title">Contact</div>
-                    <p class="font-rubik">hello@maxedge.co.uk <br>(+44) 742 534 9313</p>
+                    <p class="font-rubik">hello@maxedge.co.uk <br>(+44) 746 2778 088</p>
                 </div> <!-- /.address-info -->
             </div>
             <div class="col-md-4 col-sm-6">

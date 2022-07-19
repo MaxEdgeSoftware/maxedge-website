@@ -36,7 +36,7 @@ class AccountsController extends Controller
                 return "admin";
             }
         } else {
-            return "login";
+            return redirect("/login");
         }
     }
 }
