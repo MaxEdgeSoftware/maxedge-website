@@ -2,7 +2,7 @@
 
 
 @section("titleSection")
-<title> Home - {{ config('app.name', 'Laravel') }}</title>
+<title> Home Maxedge - {{ config('app.name', 'Laravel') }}</title>
 @endSection("titleSection")
 
 
